@@ -1,4 +1,3 @@
-# test
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -188,4 +187,4 @@
             </ul>
         </section>
         <section id="crafting" class="container">
-            <h2>Крафтинг</h2> 
+            <h2>Крафтинг</h2>
